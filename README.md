@@ -4,12 +4,8 @@
 <p align="left"> <a href="https://twitter.com/raviraj_hq" target="blank"><img src="https://img.shields.io/twitter/follow/raviraj_hq?logo=twitter&style=for-the-badge" alt="raviraj_hq" /></a> </p>
 
 - 🔭 I’m currently working on [InPhoenix](https://raviraj4.github.io/Inphoenix-v1/)
-
 - 🌱 I’m currently learning **NextJS, React, C++ and Java**
-
 - 📫 How to reach me **ravirajmali010@gmail.com**
-
-- ⚡ Fun fact **I can Draw!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
