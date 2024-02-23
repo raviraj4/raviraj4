@@ -1,4 +1,4 @@
-<h1 align="center">I'm Raviraj🤡</h1>
+<h1 align="center">I'm Raviraj</h1>
 <h3 align="center">Developer by the day, Mangaka by the night.</h3>
 
 <p align="left"> <a href="https://twitter.com/raviraj_hq" target="blank"><img src="https://img.shields.io/twitter/follow/raviraj_hq?logo=twitter&style=for-the-badge" alt="raviraj_hq" /></a> </p>
