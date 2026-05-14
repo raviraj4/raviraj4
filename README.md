@@ -74,10 +74,6 @@ A notetaking app thats truly private.
 
 <div align="center">
 
-![Ravi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raviraj4&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&icon_color=06b6d4&text_color=e2e8f0&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=raviraj4&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0a0a0f&title_color=7c3aed&text_color=e2e8f0)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=raviraj4&theme=midnight-purple&hide_border=true&background=0a0a0f&ring=7c3aed&fire=ec4899&currStreakLabel=06b6d4)
 
 </div>
